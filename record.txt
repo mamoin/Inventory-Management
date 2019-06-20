@@ -1,0 +1,2 @@
+football     500     100
+cricketball  300     100
